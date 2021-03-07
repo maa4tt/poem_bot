@@ -1,0 +1,5 @@
+markovify
+spacy
+opencv-python
+regex
+discord

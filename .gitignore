@@ -1,0 +1,4 @@
+venv/
+.idea/
+discord_token.py
+poems_data.txt
